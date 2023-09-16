@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\bin\Debug\net7.0\SAYİ_TAHMİN_OYUNU.exe
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\bin\Debug\net7.0\SAYİ_TAHMİN_OYUNU.deps.json
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\bin\Debug\net7.0\SAYİ_TAHMİN_OYUNU.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\bin\Debug\net7.0\SAYİ_TAHMİN_OYUNU.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\bin\Debug\net7.0\SAYİ_TAHMİN_OYUNU.pdb
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\obj\Debug\net7.0\SAYİ_TAHMİN_OYUNU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\obj\Debug\net7.0\SAYİ_TAHMİN_OYUNU.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\obj\Debug\net7.0\SAYİ_TAHMİN_OYUNU.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\obj\Debug\net7.0\SAYİ_TAHMİN_OYUNU.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\obj\Debug\net7.0\SAYİ_TAHMİN_OYUNU.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\obj\Debug\net7.0\refint\SAYİ_TAHMİN_OYUNU.dll
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\obj\Debug\net7.0\SAYİ_TAHMİN_OYUNU.pdb
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\obj\Debug\net7.0\SAYİ_TAHMİN_OYUNU.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ALIŞTIRMALAR\SAYİ_TAHMİN_OYUNU\SAYİ_TAHMİN_OYUNU\obj\Debug\net7.0\ref\SAYİ_TAHMİN_OYUNU.dll
